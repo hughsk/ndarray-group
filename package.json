@@ -1,0 +1,30 @@
+{
+  "name": "ndarray-group",
+  "version": "0.0.0",
+  "description": "Wraps a group of ndarrays into a single virtual ndarray",
+  "main": "index.js",
+  "dependencies": {
+    "mod-loop": "0.0.0",
+    "ndarray-proxy": "0.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hughsk/ndarray-group.git"
+  },
+  "author": "Hugh Kennedy <hughskennedy@gmail.com> (http://hughskennedy.com/)",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "keywords": [
+    "group",
+    "chunk",
+    "block",
+    "proxy",
+    "ndarray",
+    "combine",
+    "virtual"
+  ]
+}
