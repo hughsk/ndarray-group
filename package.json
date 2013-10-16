@@ -1,6 +1,6 @@
 {
   "name": "ndarray-group",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Wraps a group of ndarrays into a single virtual ndarray",
   "main": "index.js",
   "dependencies": {
