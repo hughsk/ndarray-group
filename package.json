@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "mod-loop": "0.0.0",
-    "ndarray-proxy": "0.0.0"
+    "ndarray-proxy": "0.0.1"
   },
   "devDependencies": {},
   "scripts": {
